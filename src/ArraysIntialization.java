@@ -1,8 +1,8 @@
 import java.util.Scanner;
 /*
-
+In this section we will see about how to initialize array and how they work in different cases:
  */
-public class ArraysIntialization {
+public class Arraysinitialize {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array you want : ");
